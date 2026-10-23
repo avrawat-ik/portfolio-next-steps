@@ -18,9 +18,9 @@ https://avrawat-ik.github.io/portfolio-next-steps/
 Published with GitHub Pages from the `main` branch, repository root. Every push to `main` updates the site
 within a minute or two.
 
-## Before sharing
+## Calls to action
 
-- The "Get your customized roadmap" buttons point to `https://interviewkickstart.com` as a placeholder.
-  Replace every occurrence with the program advisor booking link.
+- Every "Get your customized roadmap" button books a call on Devik's calendar:
+  `https://ik.calendar.interviewkickstart.com/devik.kaul/consultation?utm_source=post_session_resources`.
 
 Job-description figures come from Interview Kickstart's analysis in `pm_rawat/data/jd/history/`.
