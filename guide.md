@@ -1,6 +1,6 @@
 # Your Portfolio Is Live. Next: Make It Show What You Can Do with AI.
 
-> The interactive version of this guide is [take-it-further.html](take-it-further.html). This file has the same content.
+> The interactive version of this guide is [index.html](index.html). This file has the same content.
 
 In class you built and deployed a Next.js portfolio with three AI tools. This guide covers what to add next:
 the parts a strong portfolio has, real examples, a project that combines your domain with AI, eight upgrades in order, and a checklist.
