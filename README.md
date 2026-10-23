@@ -11,13 +11,16 @@ and the Interview Kickstart call to action.
 
 Open `index.html` in a browser.
 
-## Deploy
+## Live site
 
-Static hosting only. On Vercel: import this repository, framework preset "Other", no build command,
-output directory `.` (the repository root).
+https://avrawat-ik.github.io/portfolio-next-steps/
+
+Published with GitHub Pages from the `main` branch, repository root. Every push to `main` updates the site
+within a minute or two.
 
 ## Before sharing
 
 - The "Get your customized roadmap" buttons point to `https://interviewkickstart.com` as a placeholder.
   Replace every occurrence with the program advisor booking link.
-- Job-description figures come from Interview Kickstart's analysis in `pm_rawat/data/jd/history/`.
+
+Job-description figures come from Interview Kickstart's analysis in `pm_rawat/data/jd/history/`.
