@@ -21,6 +21,6 @@ within a minute or two.
 ## Calls to action
 
 - Every "Get your customized roadmap" button books a call on Devik's calendar:
-  `https://ik.calendar.interviewkickstart.com/devik.kaul/consultation?utm_source=post_session_resources`.
+  `https://ik.calendar.interviewkickstart.com/devik.kaul/consultation?utm_source=post_portfolio_session_resources`.
 
 Job-description figures come from Interview Kickstart's analysis in `pm_rawat/data/jd/history/`.
